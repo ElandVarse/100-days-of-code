@@ -2,11 +2,11 @@
 
 ### Day 0: January 3, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started a new challenge in front-end area to clean and increase a HTML/CSS/Javascript code. Learned and used a lot of things about html structure and how to stylize a span checkbox.   
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with the checkbox style, i want to change the input, and i don't know if it is possible. So i had to go back to the beggining with checkbox cause i don't really know if the span tag can have a value that's possible for javascript read. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
