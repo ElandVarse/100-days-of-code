@@ -10,7 +10,7 @@
 
 **Link to work:** [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
 
-### Day 1: January 30, 2020
+### Day 1: January 4, 2020
 
 **Today's Progress**: I was studying the acessibility and security of HTML code, later i fix and improve the code of the challenge i'm working on. Now it has a stylized checkbox, the buttons are positioned corretcly, and i added some hover effects. From now on, I just have to adjust some little things and go to the javascript part. 
 
