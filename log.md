@@ -12,7 +12,17 @@
 
 ### Day 1: January 4, 2020
 
-**Today's Progress**: I was studying the acessibility and security of HTML code, later i fix and improve the code of the challenge i'm working on. Now it has a stylized checkbox, the buttons are positioned corretcly, and i added some hover effects. From now on, I just have to adjust some little things and go to the javascript part. 
+**Today's Progress**: I was studying acessibility and security of HTML code, later i fix and improve the code of the challenge i'm working on. Now it has a stylized checkbox, the buttons are positioned corretcly, and i added some hover effects. From now on, I just have to adjust some little things and go to the javascript part. 
 
 **Thoughts**: I'm using a image in the header that was driving me crazy, it creates a very ugly effect in the borders and i lost hours trying to fix in the code, BUT IT WASN'T IN THE CODE, IT WAS IN THE IMAGE, OH MY GOD. Tomorrow i'm gonna see if i can use a SVG on place.  
 **Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+
+
+### Day 2: January 5, 2020
+
+**Today's Progress**: After i study more of code structure, i found out about the world of code formatters on web, which is amazing! My codes are very beautiful now. The buttons in the challenge are now on, thanks to javascript. From yesterday, i didn't get de images in SVG so i used the PNG. Basically today i learned how to resolve errors.  
+
+**Thoughts**: It's very gratifying to see a code that you're stuck for hours working after so many errors. 
+**Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+
+
