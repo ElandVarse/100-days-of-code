@@ -25,4 +25,12 @@
 **Thoughts**: It's very gratifying to see a code that you're stuck for hours working after so many errors. 
 **Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
 
+### Day 3: January 6, 2020
+
+**Today's Progress**: Today i resolve visual bugs in the challenge, i spent the day studying javascript, now i understand things such as scope and variables let/const. From javascript, i'm stuck in the logic part, but i bilieve i can solve that, when i'm not mentally tired. 
+
+**Thoughts**: Logic is hard. 
+**Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+
+
 
