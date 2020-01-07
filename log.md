@@ -32,5 +32,12 @@
 **Thoughts**: Logic is hard. 
 **Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
 
+### Day 4: January 7, 2020
+
+**Today's Progress**: Today i finished the challenge i was working in the last days, i'm very glad with that but i have a long jorney ahead. With this work, i learn much things such as structure, acessibility and very others concecpts in the front-end area.
+
+**Thoughts**: Now i'm fighting a battle agaisnt javascript-es6, which is messing with my head. I hope learn responsive design  through the next days. 
+**Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+
 
 
