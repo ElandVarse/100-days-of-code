@@ -8,7 +8,7 @@
 
 **Thoughts:** I really struggled with the checkbox style, i want to change the input, and i don't know if it is possible. So i had to go back to the beggining with checkbox cause i don't really know if the span tag can have a value that's possible for javascript read. 
 
-**Link to work:** [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+**Link to work:** [desafio-front-end](https://github.com/ElandVarse/desafio-front-end)
 
 ### Day 1: January 4, 2020
 
@@ -16,7 +16,7 @@
 
 **Thoughts**: I'm using a image in the header that was driving me crazy, it creates a very ugly effect in the borders and i lost hours trying to fix in the code, BUT IT WASN'T IN THE CODE, IT WAS IN THE IMAGE, OH MY GOD. Tomorrow i'm gonna see if i can use a SVG on place.  
 
-**Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+**Link(s) to work**: [desafio-front-end](https://github.com/ElandVarse/desafio-front-end)
 
 
 ### Day 2: January 5, 2020
@@ -25,7 +25,7 @@
 
 **Thoughts**: It's very gratifying to see a code that you're stuck for hours working after so many errors. 
 
-**Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+**Link(s) to work**: [desafio-front-end](https://github.com/ElandVarse/desafio-front-end)
 
 ### Day 3: January 6, 2020
 
@@ -33,7 +33,7 @@
 
 **Thoughts**: Logic is hard. 
 
-**Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+**Link(s) to work**: [desafio-front-end](https://github.com/ElandVarse/desafio-front-end)
 
 ### Day 4: January 7, 2020
 
@@ -41,7 +41,7 @@
 
 **Thoughts**: Now i'm fighting a battle agaisnt javascript-es6, which is messing with my head. I hope learn responsive design  through the next days. 
 
-**Link(s) to work**: [desafio-front-end] (https://github.com/ElandVarse/desafio-front-end)
+**Link(s) to work**: [desafio-front-end](https://github.com/ElandVarse/desafio-front-end)
 
 ### Day 5: January 8, 2020
 
@@ -50,7 +50,16 @@
 
 **Thoughts:** I need sugar...
 
-**Link to work:** [Classe] (https://github.com/ElandVarse/estudo-javascript-ES6)
+**Link to work:** [Classe](https://github.com/ElandVarse/estudo-javascript-ES6)
+
+### Day 6: January 9, 2020
+
+
+**Today's Progress**: Today i was practicing what i learn previously, doing array operations and arrow functions in javascript. I'm trying to figure out now what i'm going to do with this language cause there's so many things to learn and so very challenges to confront.
+
+**Thoughts:** I am confused and probably lost. 
+
+**Link to work:** [Array Operations and Arrow Functions](https://github.com/ElandVarse/estudo-javascript-ES6)
 
 
 
