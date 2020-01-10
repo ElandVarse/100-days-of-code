@@ -61,6 +61,15 @@
 
 **Link to work:** [Array Operations and Arrow Functions](https://github.com/ElandVarse/estudo-javascript-ES6)
 
+### Day 7: January 10, 2020
+
+
+**Today's Progress**:  I spent the day trying to make a code works, it has to show the results of a compound interest calculator, but in another page, it is harder than i thought. But the good news is that i learn how to use axios to call an api. 
+
+**Thoughts:** I have no idea where to go now.
+
+**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
+
 
 
 
