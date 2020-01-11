@@ -71,6 +71,16 @@
 **Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
 
 
+### Day 8: January 11, 2020
+
+
+**Today's Progress**: Today was a very productive day, i updated the challenge i'm working, and IT'S WORKING, well not so perfect how a software genius could it write, but is still a thing, at least for me. I end the day learning about destructuring in javascript.
+
+**Thoughts:** I'm happy :)
+
+**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
+
+
 
 
 
