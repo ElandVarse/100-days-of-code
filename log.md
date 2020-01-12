@@ -80,6 +80,15 @@
 
 **Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
 
+### Day 9: January 12, 2020
+
+
+**Today's Progress**: I spent the day learning about responsive design in css, i think that have easier ways to do it; with frameworks or something like that, i saw only articles about css, i will deepen later in that. Well, i finished the 1st version of the calculator challenge and need to learn more about the Github and i think that's all. 
+
+**Thoughts:** I think i hate responsive design lol 
+
+**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
+
 
 
 
