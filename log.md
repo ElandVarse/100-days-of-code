@@ -89,6 +89,15 @@
 
 **Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
 
+### Day 10: January 13, 2020
+
+**Today's Progress**: I dedicated my day to fix some bugs and update some codes, i wrote a eng version of the calculator challenge and validated a formulary of another one.   
+**Thoughts**: I discover some interesting challenges for the next days and i'm excited with that. 
+
+**Link(s) to work**: [desafio-front-end](https://github.com/ElandVarse/desafio-front-end)
+**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend)
+
+
 
 
 
