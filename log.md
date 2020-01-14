@@ -101,6 +101,7 @@
 ### Day 11: January 14, 2020
 
 **Today's Progress**: Today i learned how to put sounds in a page thanks to the free challenge/course of Wes Bos to build 30 things in 30 days with pure javascript. I'll try build my own personal codes for this challenge.
+
 **Thoughts**: i don't feel so great about it...
 
 **Link to work:** [Nature Sounds](https://github.com/ElandVarse/30DayChallenge)
