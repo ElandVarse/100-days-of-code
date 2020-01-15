@@ -106,7 +106,15 @@
 
 **Link to work:** [Nature Sounds](https://github.com/ElandVarse/30DayChallenge)
 
+### Day 12: January 15, 2020
 
+**Today's Progress**: Today i did a clock and a digital clock with javascript and css. I learned very good things with that, like the method 'getHours()' that i didn't know that exist, awesome. Also i finished a version 1.0 of a cool website called 'Sounds' which is very useless, buuut plays rain sound and very other sounds that has in the interface, so is that. Is not called 'nature sounds' anymore, cause i get trouble with that and i had to delete the original repository. 
+
+**Thoughts**: I'd really would appreciate a pizza right now
+
+**Link to work:** [Sounds](https://github.com/ElandVarse/30ChallengeJavascript)
+
+**Link to work:** [Clock](https://github.com/ElandVarse/30ChallengeJavascript)
 
 
 
