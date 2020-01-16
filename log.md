@@ -116,6 +116,14 @@
 
 **Link to work:** [Clock](https://github.com/ElandVarse/30ChallengeJavascript)
 
+### Day 13: January 16, 2020
+
+**Today's Progress**: This morning i learned how to manipulate css variables using javascript, nothing very special. But then i spent the day working on a website called 'ChWays' whose purpose is show several other websites, apps and things that would be interesting for people with ADHD, especially childs. I'm doing this to present on a college project.
+
+**Thoughts**: I still need to do the research...
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
 
 
 
