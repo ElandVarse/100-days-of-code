@@ -124,6 +124,18 @@
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
+**Link to work:** [Css Variables](https://github.com/ElandVarse/30ChallengeJavascript)
+
+### Day 14: January 17, 2020
+
+**Today's Progress**: Well, i don't want to see array for a time now... 
+
+**Thoughts**: I'm tired...
+
+**Link to work:** [Array cardio day 1](https://github.com/ElandVarse/30ChallengeJavascript)
+
+
+
 
 
 
