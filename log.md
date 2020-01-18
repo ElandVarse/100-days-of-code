@@ -135,6 +135,15 @@
 **Link to work:** [Array cardio day 1](https://github.com/ElandVarse/30ChallengeJavascript)
 
 
+### Day 15: January 18, 2020
+
+**Today's Progress**: Today i saw concepts like flex in css and Toggle in javascript. In the course of javascript30, we did a flex panel gallery.
+
+**Thoughts**: It's weekend, leave me alone. 
+
+**Link to work:** [Flex Panel Gallery](https://github.com/ElandVarse/30ChallengeJavascript)
+
+
 
 
 
