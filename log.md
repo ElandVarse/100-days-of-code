@@ -89,6 +89,7 @@
 
 **Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
 
+
 ### Day 10: January 13, 2020
 
 **Today's Progress**: I dedicated my day to fix some bugs and update some codes, i wrote a eng version of the calculator challenge and validated a formulary of another one.   
@@ -98,6 +99,7 @@
 
 **Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend)
 
+
 ### Day 11: January 14, 2020
 
 **Today's Progress**: Today i learned how to put sounds in a page thanks to the free challenge/course of Wes Bos to build 30 things in 30 days with pure javascript. I'll try build my own personal codes for this challenge.
@@ -105,6 +107,7 @@
 **Thoughts**: i don't feel so great about it...
 
 **Link to work:** [Nature Sounds](https://github.com/ElandVarse/30DayChallenge)
+
 
 ### Day 12: January 15, 2020
 
@@ -116,6 +119,7 @@
 
 **Link to work:** [Clock](https://github.com/ElandVarse/30ChallengeJavascript)
 
+
 ### Day 13: January 16, 2020
 
 **Today's Progress**: This morning i learned how to manipulate css variables using javascript, nothing very special. But then i spent the day working on a website called 'ChWays' whose purpose is show several other websites, apps and things that would be interesting for people with ADHD, especially childs. I'm doing this to present on a college project.
@@ -125,6 +129,7 @@
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 **Link to work:** [Css Variables](https://github.com/ElandVarse/30ChallengeJavascript)
+
 
 ### Day 14: January 17, 2020
 
@@ -142,6 +147,16 @@
 **Thoughts**: It's weekend, leave me alone. 
 
 **Link to work:** [Flex Panel Gallery](https://github.com/ElandVarse/30ChallengeJavascript)
+
+
+### Day 16: January 19, 2020
+
+**Today's Progress**: I didn't do much today, i only updated the style and structure of a project and studied a little bit of javascript.
+
+**Thoughts**: Oh man, i just want to enjoy the sunday
+
+**Link to work:** [Flex Panel Gallery](https://github.com/ElandVarse/ChWays)
+
 
 
 
