@@ -155,7 +155,7 @@
 
 **Thoughts**: Oh man, i just want to enjoy the sunday
 
-**Link to work:** [Flex Panel Gallery](https://github.com/ElandVarse/ChWays)
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
 
