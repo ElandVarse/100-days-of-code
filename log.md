@@ -2,7 +2,7 @@
 
 ### Day 0: January 3, 2020
 
-//Writing this diary in english to improve my skills in the language.  
+//Writing this diary in english to improve my skills in this language.  
 
 **Today's Progress**: Started a new challenge in front-end area to clean and increase a HTML/CSS/Javascript code. Learned and used a lot of things about html structure and how to stylize a span checkbox.   
 
@@ -156,6 +156,15 @@
 **Thoughts**: Oh man, i just want to enjoy the sunday
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
+### Day 17: January 20, 2020
+
+**Today's Progress**: I was reading Eloquent Javascript today and i realized that i have problems in solve the most simple logical problems, like the chess board problem in the book. Then i spent the day working to improve that, and boy it's hard as playing dark souls with a banana. 
+
+**Thoughts**: In fact, i don't know if the chess board problem is hard for everybody.
+
+**Link to work:** [Eloquent Java](https://github.com/ElandVarse/Estudos-Javascript)
 
 
 
