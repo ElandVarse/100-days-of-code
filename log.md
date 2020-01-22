@@ -160,11 +160,20 @@
 
 ### Day 17: January 20, 2020
 
-**Today's Progress**: I was reading Eloquent Javascript today and i realized that i have problems in solve the most simple logical problems, like the chess board problem in the book. Then i spent the day working to improve that, and boy it's hard as playing dark souls with a banana. 
+**Today's Progress**: I was reading Eloquent Javascript today and i realized that i have problems in solve the most simple logical problems, like the chess board problem in the book. Then i spent the day working to improve that, and boy it's hard as play dark souls with a banana. 
 
 **Thoughts**: In fact, i don't know if the chess board problem is hard for everybody.
 
 **Link to work:** [Eloquent Java](https://github.com/ElandVarse/Estudos-Javascript)
+
+### Day 18: January 21, 2020
+
+**Today's Progress**: I spent the day looking and solving logical problems in javascript, then i got stucked in one about get all the zeros in between two numbers. Man.. i love the feeling when i solve a problem that is taking hours to be solved
+
+**Thoughts**: I need a job...
+
+**Link to work:** [Random Exercises](https://github.com/ElandVarse/Estudos-Javascript/tree/master/Estudo)
+
 
 
 
