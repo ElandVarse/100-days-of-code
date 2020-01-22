@@ -166,6 +166,7 @@
 
 **Link to work:** [Eloquent Java](https://github.com/ElandVarse/Estudos-Javascript)
 
+
 ### Day 18: January 21, 2020
 
 **Today's Progress**: I spent the day looking and solving logical problems in javascript, then i got stucked in one about get all the zeros in between two numbers. Man.. i love the feeling when i solve a problem that is taking hours to be solved
@@ -173,6 +174,16 @@
 **Thoughts**: I need a job...
 
 **Link to work:** [Random Exercises](https://github.com/ElandVarse/Estudos-Javascript/tree/master/Estudo)
+
+
+### Day 19: January 22, 2020
+
+**Today's Progress**: I keep persisting on my epic journey through the world of logic in javascript, my mind is tired but my heart is strong, today i've read some more chapters of eloquent javascript and wasted a time thinking about why some codes works. I finished the day creating a code to double all even numbers in some arrays inside another array.
+
+**Thoughts**: I need to sleep...
+
+**Link to work:** [Random Exercises](https://github.com/ElandVarse/Estudos-Javascript/tree/master/Estudo)
+
 
 
 
