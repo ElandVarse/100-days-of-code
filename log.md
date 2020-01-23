@@ -185,6 +185,16 @@
 **Link to work:** [Random Exercises](https://github.com/ElandVarse/Estudos-Javascript/tree/master/Estudo)
 
 
+### Day 20: January 23, 2020
+
+**Today's Progress**: Today i updated the visuals of a project i'm working. :)
+
+**Thoughts**: I need to relax...
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
+
 
 
 
