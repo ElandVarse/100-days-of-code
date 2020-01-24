@@ -194,6 +194,14 @@
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 21: January 24, 2020
+
+**Today's Progress**: I got stuck on a code that checks if a number is prime, and praticed some css. 
+
+**Thoughts**: I don't have any, but i saw Cast Away for the first time today. Very good!
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
 
 
 
