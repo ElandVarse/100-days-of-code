@@ -203,6 +203,18 @@
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 22: January 25, 2020
+
+**Today's Progress**: Today i had fun buiding a rock paper scissors game with javascript, still has some bugs but a code without bugs is an incomplete code. 
+
+**Thoughts**: Big day
+
+**Link to work:** [Pedra Papel e Tesoura](https://github.com/ElandVarse/estudos-javascript/tree/master/random-exercises)
+
+
+
+
+
 
 
 
