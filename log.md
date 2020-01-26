@@ -214,7 +214,7 @@
 
 ### Day 23: January 26, 2020
 
-**Today's Progress**: Fix the bugs in the rock paper scissors game. 
+**Today's Progress**: Fixed the bugs in the rock paper scissors game. 
 
 **Thoughts**: Sunday...
 
