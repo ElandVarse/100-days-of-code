@@ -209,6 +209,15 @@
 
 **Thoughts**: Big day
 
+**Link to work:** [Pedra Papel e Tesoura](https://github.com/ElandVarse/estudos-javascript/tree/master/random-exercises
+
+
+### Day 23: January 26, 2020
+
+**Today's Progress**: Fix the bugs in the rock paper scissors game. 
+
+**Thoughts**: Sunday...
+
 **Link to work:** [Pedra Papel e Tesoura](https://github.com/ElandVarse/estudos-javascript/tree/master/random-exercises)
 
 
