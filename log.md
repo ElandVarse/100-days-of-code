@@ -221,6 +221,15 @@
 **Link to work:** [Pedra Papel e Tesoura](https://github.com/ElandVarse/estudos-javascript/tree/master/random-exercises)
 
 
+### Day 24: January 27, 2020
+
+**Today's Progress**: Today i learned about a very cool framework in JS, called 'reveal', that allows you to create beautiful presentations in html.
+
+**Thoughts**: Nice
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
 
 
 
