@@ -230,6 +230,17 @@
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 25: January 28, 2020
+
+**Today's Progress**: Spent the day working on a rock paper scissors game using only javascript and this time with style! 
+ 
+**Thoughts**: Noice
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/jokenpo)
+
+
+
+
 
 
 
