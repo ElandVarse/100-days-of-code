@@ -239,6 +239,15 @@
 **Link to work:** [ChWays](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 26: January 29, 2020
+
+**Today's Progress**: Updated some projects and started my studies in nodeJs.
+ 
+**Thoughts**: Terrible...
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/jokenpo)
+
+
 
 
 
