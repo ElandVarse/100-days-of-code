@@ -248,6 +248,15 @@
 **Link to work:** [ChWays](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 27: January 30, 2020
+
+**Today's Progress**: Spent the day solving logical problems with java.
+ 
+**Thoughts**: Is not my favorite programming language :(
+
+**Link to work:** [Java](https://github.com/ElandVarse/100days-of-code/tree/master/Java%20-%20Codes)
+
+
 
 
 
