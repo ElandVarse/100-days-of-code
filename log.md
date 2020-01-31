@@ -236,7 +236,7 @@
  
 **Thoughts**: Noice
 
-**Link to work:** [ChWays](https://github.com/ElandVarse/jokenpo)
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
 ### Day 26: January 29, 2020
@@ -245,7 +245,7 @@
  
 **Thoughts**: Terrible...
 
-**Link to work:** [ChWays](https://github.com/ElandVarse/jokenpo)
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
 ### Day 27: January 30, 2020
@@ -255,6 +255,16 @@
 **Thoughts**: Is not my favorite programming language :(
 
 **Link to work:** [Java](https://github.com/ElandVarse/100days-of-code/tree/master/Java%20-%20Codes)
+
+
+### Day 28: January 31, 2020
+
+**Today's Progress**: I don't have much to tell, i had to rush a project to finish.. i can say that i felt what is like to work under pressure.
+**Thoughts**: Oh boooy.
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
 
 
 
