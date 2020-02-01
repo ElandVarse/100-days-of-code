@@ -264,6 +264,14 @@
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
+### Day 29: February 01, 2020
+
+**Today's Progress**: Only solve a java problem for college.
+ 
+**Thoughts**:  It was a hard one. 
+
+**Link to work:** [Java](https://github.com/ElandVarse/100days-of-code/tree/master/Java%20-%20Codes)
+
 
 
 
