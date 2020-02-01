@@ -24,6 +24,7 @@ public class q01 {
         int n1, n2, n3, aux, menu;
         // do while serve pra repetir o código toda vez que for executado;
         do {
+            System.out.println("");
             System.out.println("Menu de Opções \n 1 - Ordem Crescente \n " +
                 "2 - Ordem Descrescente \n 3 - Maior no meio \n " +
                 "0 - Sair");
@@ -55,7 +56,7 @@ public class q01 {
                         n1 = n2;
                         n2 = aux;
                     }
-                    //Resultado
+                    //Resultado:
                     System.out.println("\nResultado: ");
                     System.out.println(n1);
                     System.out.println(n2);
@@ -120,7 +121,7 @@ public class q01 {
                         n1 = n2;
                         n2 = aux;
                     }
-                    //Resultado
+                    //Resultado:
                     System.out.println("\nResultado: ");
                     System.out.println(n1);
                     System.out.println(n3);

@@ -13,15 +13,17 @@ public class q02wh {
 
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
-        //Variáveis e limitantes, tive de usar o maior número possível no auxMenor pra conseguir pegar o menor número da contagem sem usar um array.
+        /*Variáveis e limitantes, tive de usar o maior número possível no auxMenor 
+        pra conseguir pegar o menor número da contagem sem usar um array*/
         int n='1', auxSoma = 0, auxMaior = 0, auxMenor = 999999999, somaPar = 0, auxImpar = 0;
-        float auxQuant = 0, auxQuantPar = 0; //Float para a média
+        //Float para a média;
+        float auxQuant = 0, auxQuantPar = 0;
 
         System.out.println("Digite números, a contagem acaba quando você digita 0;");
-        //Enquanto o número digitado não for 0, então vai continuar pedindo número
+        //Enquanto o número digitado não for 0, então vai continuar pedindo número;
         while(n!=0) {
             n = leia.nextInt();
-            //Se o número for negátivo então não é válido!
+            //Se o número for negátivo então não é válido;
             if (n < 0) {
                 System.out.println("Erro! Valor negativo é inválido.");
             }
@@ -52,7 +54,7 @@ public class q02wh {
         }
         System.out.println("\nResultados: \n");
         System.out.println("Soma dos números: " + auxSoma);
-        System.out.println("Quantidade de números digitados: " + (int) auxQuant); //'(int)' serve pra transformar em inteiro
+        System.out.println("Quantidade de números digitados: " + (int) auxQuant); //'(int)' serve pra transformar em inteiro;
         System.out.println("Média dos números digitados: " + auxSoma / auxQuant);
         System.out.println("Maior número: " + auxMaior);
         System.out.println("Menor número: " + auxMenor);

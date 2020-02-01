@@ -27,10 +27,12 @@ public class q03do {
             System.out.println("");
             System.out.println("Soma dos números entre " + m+ " e " + n +" é " + aux);
             System.out.println("");
-            //Pra evitar que o programa some o aux novo com o antigo:
+            //Pra evitar que o programa some o aux novo com o antigo;
             aux=0;
             
         } while(m<=n);
-        System.out.println("Fim!");       
-    }   
+        System.out.println("Fim!");
+        
+    }
+    
 }

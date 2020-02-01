@@ -24,7 +24,7 @@ public class q02do {
             if (n < 0) {
                 System.out.println("Erro! Valor negativo é inválido.");
             }
-            //Checa se os números são validos
+            //Checa se os números são validos;
             if (n > 0) {
                 //Soma:
                 auxSoma += n;
@@ -48,11 +48,11 @@ public class q02do {
                     auxImpar++;
                 }
             }
-            //Enquanto o número digitado não for 0, então vai continuar pedindo número
+            //Enquanto o número digitado não for 0, então vai continuar pedindo número;
         } while (n != 0);
         System.out.println("\nResultados: \n");
         System.out.println("Soma dos números: " + auxSoma);
-        System.out.println("Quantidade de números digitados: " + (int) auxQuant); //'(int)' serve pra transformar em inteiro
+        System.out.println("Quantidade de números digitados: " + (int) auxQuant); //'(int)' serve pra transformar em inteiro;
         System.out.println("Média dos números digitados: " + auxSoma / auxQuant);
         System.out.println("Maior número: " + auxMaior);
         System.out.println("Menor número: " + auxMenor);
