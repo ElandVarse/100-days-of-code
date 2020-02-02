@@ -273,6 +273,14 @@
 **Link to work:** [Java](https://github.com/ElandVarse/100days-of-code/tree/master/Java%20-%20Codes)
 
 
+### Day 30: February 02, 2020
+
+**Today's Progress**: Didn't do much today, i continued my studies in node and tried to understand how flexbox works in css.
+ 
+**Thoughts**:  I don't have mind to programming in sunday. 
+
+
+
 
 
 
