@@ -280,6 +280,14 @@
 **Thoughts**:  I don't have mind to programming in sunday. 
 
 
+### Day 31: February 03, 2020
+
+**Today's Progress**: Today i was testing which path that i'll follow in programming, backend with nodeJS or frontend with some framework like react, i tried both but i couldn't get a answer. There's a lot of things to learn and that is for go crazy. I think i will back off a little and learn more javascript before chosing a way now, and that is. 
+ 
+**Thoughts**:  Guess i need to relax i little bit cause i couldn't pay attention in my studies, my mind is full
+
+
+
 
 
 
