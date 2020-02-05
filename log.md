@@ -106,7 +106,7 @@
 
 **Thoughts**: i don't feel so great about it...
 
-**Link to work:** [Nature Sounds](https://github.com/ElandVarse/30DayChallenge)
+**Link to work:** [Nature Sounds](https://github.com/ElandVarse/30ChallengeJavascript)
 
 
 ### Day 12: January 15, 2020
@@ -286,8 +286,18 @@
  
 **Thoughts**:  Guess i need to relax i little bit cause i couldn't pay attention in my studies, my mind is full
 
+
 ### Day 32: February 04, 2020
 
 **Today's Progress**: Improving my logic skills with some exercises before i start seeking the knowledge for a front-end career. If anything goes wrong, i'll go with back hehe, if anything goes wrong with that too then i'll probably seek a career with drug dealing
  
 **Thoughts**:  I still need to relax
+
+
+### Day 33: February 05, 2020
+
+**Today's Progress**: I'm revisiting some concepts in javascript to start learn react. Today i did some exercises to deeply understand arrow function and succinctly saw how to work with canvas.
+
+**Thoughts**: i don't feel so great about it...
+
+**Link to work:** [Canvas](https://github.com/ElandVarse/30ChallengeJavascript)
