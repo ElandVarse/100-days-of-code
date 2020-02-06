@@ -301,3 +301,11 @@
 **Thoughts**: i don't feel so great about it...
 
 **Link to work:** [Canvas](https://github.com/ElandVarse/30ChallengeJavascript)
+
+
+### Day 34: February 06, 2020
+
+**Today's Progress**: Today i watched a lecture of functional programming on youtube, it was pretty good to solidify my foundation in javascript, the speaker was very communicative too, which helped my mind not fly away. Well, i also realize that i'm not so good how i thought i was in terms of arrow function and class, but i'm gonna change that!
+
+**Thoughts**: I just want to watch anime in peace ok
+
