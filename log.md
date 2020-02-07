@@ -309,3 +309,14 @@
 
 **Thoughts**: I just want to watch anime in peace ok
 
+
+### Day 35: February 07, 2020
+
+**Today's Progress**: Today's news is that i updated the css of a project with flexbox, i really liked cause turns a lot of things easier, such as creating a fixed footer for a website.
+
+**Thoughts**: i'm tired
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
+
