@@ -319,4 +319,12 @@
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 36: February 08, 2020
+
+**Today's Progress**: I'm still using and watching the effects of using flexbox on my codes, oh man, i got it to do a responsive website with almost nothing of lines of code. God bless flexbox 
+**Thoughts**: Nice
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
 
