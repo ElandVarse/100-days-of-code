@@ -327,5 +327,8 @@
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
+### Day 37: February 09, 2020
 
+**Today's Progress**: Started a new project in which i want to use concepts like flexbox and reactJS, it's a website. I don't know how much i can use reactJS with my current knowledge but that is the objetive, improve.
 
+**Thoughts**: Let's TRY!
