@@ -339,3 +339,10 @@
 **Today's Progress**: About reactJS, at the beginning i was very angry about it, i wasn't able to understand not even one line in the codes, today i had a great feeling working with, it was almost like fun but i feel hope too because in all of it i felt that i was truly learning and that's beautiful for me.
 
 **Thoughts**: I wish i could show my projects, but they are private hehelol
+
+
+### Day 39: February 11, 2020
+
+**Today's Progress**: I like the organization caused by react, but i'm having problems in create a fixed footer with flex like i was doing in vanilla coding, i still have a lot to learn. 
+
+**Thoughts**: I'm gonna be the best
