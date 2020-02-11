@@ -331,4 +331,11 @@
 
 **Today's Progress**: Started a new project in which i want to use concepts like flexbox and reactJS, it's a website. I don't know how much i can use reactJS with my current knowledge but that is the objetive, improve.
 
-**Thoughts**: Let's TRY!
+**Thoughts**: Let's ROCK IT!
+
+
+### Day 38: February 10, 2020
+
+**Today's Progress**: About reactJS, at the beginning i was very angry about it, i wasn't able to understand not even one line in the codes, today i had a great feeling working with, it was almost like fun but i feel hope too because in all of it i felt that i was truly learning and that's beautiful for me.
+
+**Thoughts**: I wish i could show my projects, but they are private hehelol
