@@ -346,3 +346,9 @@
 **Today's Progress**: I like the organization caused by react, but i'm having problems in create a fixed footer with flex like i was doing in vanilla coding, i still have a lot to learn. 
 
 **Thoughts**: I'm gonna be the best
+
+### Day 40: February 12, 2020
+
+**Today's Progress**: I'm in love with react and i think this is beautiful. After so many hours trying to fix a bug, i finally can go on now. I have to say that the best part of coding is to make something work after you cried so many time in a shower. Things i did it today: fixed footer and a freakin website!!
+
+**Thoughts**: Nice
