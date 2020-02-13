@@ -352,3 +352,10 @@
 **Today's Progress**: I'm in love with react and i think this is beautiful. After so many hours trying to fix a bug, i finally can go on now. I have to say that the best part of coding is to make something work after you cried so many time in a shower. Things i did it today: fixed footer and a freakin website!!
 
 **Thoughts**: Nice
+
+
+### Day 41: February 12, 2020
+
+**Today's Progress**: Nothing new, only bugs, buttons and styling.
+
+**Thoughts**: Nice
