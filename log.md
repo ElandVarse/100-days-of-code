@@ -354,8 +354,15 @@
 **Thoughts**: Nice
 
 
-### Day 41: February 12, 2020
+### Day 41: February 13, 2020
 
 **Today's Progress**: Nothing new, only bugs, buttons and styling.
 
 **Thoughts**: Nice
+
+
+### Day 42: February 14, 2020
+
+**Today's Progress**: Learning about git, BEM and updating some old projects with react;
+
+**Thoughts**: I'm really really tired, need to sleep
