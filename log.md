@@ -366,3 +366,10 @@
 **Today's Progress**: Learning about git, BEM and updating some old projects with react;
 
 **Thoughts**: I'm really really tired, need to sleep
+
+
+### Day 43: February 15, 2020
+
+**Today's Progress**: I solved some bugs and updated some things.
+
+**Thoughts**: Saturday...
