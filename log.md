@@ -373,3 +373,12 @@
 **Today's Progress**: I solved some bugs and updated some things.
 
 **Thoughts**: Saturday...
+
+
+### Day 44: February 16, 2020
+
+**Today's Progress**: Today i realized that doesn't matter how many time you work on a code or how beautiful it is, always can be better
+
+**Thoughts**: Sunday...
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
