@@ -382,3 +382,10 @@
 **Thoughts**: Sunday...
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
+### Day 45: February 17 2020
+
+**Today's Progress**: You'll never be good if you keep ignoring the basics, i started to watch a marathon of coding today and learned very good things which i don't knew that was possible in css like creating the design of a raindrop using border radius, nice  
+
+**Thoughts**: Wishing home
