@@ -389,3 +389,10 @@
 **Today's Progress**: You'll never be good if you keep ignoring the basics, i started to watch a marathon of coding today and learned very good things which i don't knew that was possible in css like creating the design of a raindrop using border radius, nice  
 
 **Thoughts**: Wishing home
+
+
+### Day 46: February 18 2020
+
+**Today's Progress**: Today was very productive, i've learned a lot of cool things like pseudo-elements in css(VERY COOL) and how to create a freakin server with nodejs. 
+
+**Thoughts**: Writing from home :)
