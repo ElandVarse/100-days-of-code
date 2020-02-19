@@ -396,3 +396,12 @@
 **Today's Progress**: Today was very productive, i've learned a lot of cool things like pseudo-elements in css(VERY COOL) and how to create a freakin server with nodejs. 
 
 **Thoughts**: Writing from home :)
+
+
+### Day 47: February 19 2020
+
+**Today's Progress**: Started to work with postgreSQL today, very nice. Learned very good things using post and get. I took some old projects to update when i realized that i'm the most crazy programmer i've ever know, seriously, i used some concepts in my codes that are so ahead of our time that i've had to delete most of it cause not even god knows what is happened there but i saved some things like the title of the page. 
+
+**Thoughts**: :)
+
+
