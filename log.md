@@ -405,3 +405,10 @@
 **Thoughts**: :)
 
 
+### Day 48: February 20 2020
+
+**Today's Progress**: Updated some old projects today, and it was awesome because i could see all my progress, i managed to reduce many lines of code, the amount of files and even make it more beautiful. I'm truly glad with the results and can't wait to see what's gonna happen in the future.
+
+**Thoughts**: Nice 
+
+
