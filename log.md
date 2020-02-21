@@ -68,7 +68,7 @@
 
 **Thoughts:** I have no idea where to go now.
 
-**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
+**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend)
 
 
 ### Day 8: January 11, 2020
@@ -78,7 +78,7 @@
 
 **Thoughts:** I'm happy :)
 
-**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
+**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend)
 
 ### Day 9: January 12, 2020
 
@@ -87,7 +87,7 @@
 
 **Thoughts:** I think i hate responsive design lol 
 
-**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend/tree/master/desafio-front-end-(CICLIC))
+**Link to work:** [Challenge - Calculator](https://github.com/ElandVarse/test-frontend)
 
 
 ### Day 10: January 13, 2020
@@ -410,5 +410,16 @@
 **Today's Progress**: Updated some old projects today, and it was awesome because i could see all my progress, i managed to reduce many lines of code, the amount of files and even make it more beautiful. I'm truly glad with the results and can't wait to see what's gonna happen in the future.
 
 **Thoughts**: Nice 
+
+**Link to work:** [Challenge - Calculator pt-br](https://github.com/ElandVarse/test-frontend)
+
+
+### Day 49: February 21 2020
+
+**Today's Progress**: Updated one more project, and boy, this one is got me tired :p
+
+**Thoughts**: VERY NICE
+
+**Link to work:** [Desafio Front-end - Vagas pt-br](https://github.com/ElandVarse/desafio-front-end)
 
 
