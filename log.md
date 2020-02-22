@@ -423,3 +423,15 @@
 **Link to work:** [Desafio Front-end - Vagas pt-br](https://github.com/ElandVarse/desafio-front-end)
 
 
+### Day 50: February 22 2020
+
+**Today's Progress**: I'm still awace since yesterday but already past midnight and it's another day, well, 4 hours in a row coding a formulary, please call the amberlamps cuz i'll sleep
+
+**Thoughts**: Ska-badabadabadoo-belidabbelydabbladabbladabblabab-belibabbelibabbelibabbelabbelo-doobelidoo
+I'm the Scatman
+
+**Link to work:** [Desafio Front-end - Vagas pt-br](https://github.com/ElandVarse/desafio-front-end)
+
+
+
+
