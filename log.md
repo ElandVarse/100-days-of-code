@@ -442,5 +442,13 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 52: February 22 2020
+
+**Today's Progress**: Still working on updating old projects with the new knowledge i've acquired
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
+
 
 
