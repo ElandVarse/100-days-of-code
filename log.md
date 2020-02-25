@@ -433,7 +433,7 @@ I'm the Scatman
 **Link to work:** [Desafio Front-end - Vagas pt-br](https://github.com/ElandVarse/desafio-front-end)
 
 
-### Day 51: February 22 2020
+### Day 51: February 23 2020
 
 **Today's Progress**: Working on the visuals of the ChWays project, i'll update it when i have something nice
 
@@ -442,11 +442,20 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
-### Day 52: February 22 2020
+### Day 52: February 24 2020
 
 **Today's Progress**: Still working on updating old projects with the new knowledge i've acquired
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
+### Day 53: February 25 2020
+
+**Today's Progress**: Studying some css tricks and optimizing my codes  
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
 
 
 
