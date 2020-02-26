@@ -456,6 +456,14 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 54: February 26 2020
+
+**Today's Progress**: Coding in vanilla html/css/js today, i've realized that when your code gets bigger, it becames so confuse as learning japanese being a Tom Cruise in The Last Samurai movie, so i'm gonna bring this project to react as soon as possible.
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
+
 
 
 
