@@ -463,6 +463,14 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 55: February 27 2020
+
+**Today's Progress**: Improving my react skills and learning about responsive tipography
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
+
 
 
 
