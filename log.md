@@ -470,6 +470,14 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 56: February 28 2020
+
+**Today's Progress**: Learning how to call functions in react and studying classes again
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
+
 
 
 
