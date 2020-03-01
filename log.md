@@ -477,6 +477,15 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 57: February 29 2020
+
+**Today's Progress**: Did nothing new, only worked with react and the freakin elifecycle bug that happen's every single day, boy, how i hate that
+
+**Thoughts**: I'm tired of programming every day :'(
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
 
 
 
