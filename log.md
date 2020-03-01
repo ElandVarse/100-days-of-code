@@ -384,28 +384,28 @@
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
-### Day 45: February 17 2020
+### Day 45: February 17, 2020
 
 **Today's Progress**: You'll never be good if you keep ignoring the basics, i started to watch a marathon of coding today and learned very good things which i don't knew that was possible in css like creating the design of a raindrop using border radius, nice  
 
 **Thoughts**: Wishing home
 
 
-### Day 46: February 18 2020
+### Day 46: February 18, 2020
 
 **Today's Progress**: Today was very productive, i've learned a lot of cool things like pseudo-elements in css(VERY COOL) and how to create a freakin server with nodejs. 
 
 **Thoughts**: Writing from home :)
 
 
-### Day 47: February 19 2020
+### Day 47: February 19, 2020
 
 **Today's Progress**: Started to work with postgreSQL today, very nice. Learned very good things using post and get. I took some old projects to update when i realized that i'm the most crazy programmer i've ever know, seriously, i used some concepts in my codes that are so ahead of our time that i've had to delete most of it cause not even god knows what is happened there but i saved some things like the title of the page. 
 
 **Thoughts**: :)
 
 
-### Day 48: February 20 2020
+### Day 48: February 20, 2020
 
 **Today's Progress**: Updated some old projects today, and it was awesome because i could see all my progress, i managed to reduce many lines of code, the amount of files and even make it more beautiful. I'm truly glad with the results and can't wait to see what's gonna happen in the future.
 
@@ -414,7 +414,7 @@
 **Link to work:** [Challenge - Calculator pt-br](https://github.com/ElandVarse/test-frontend)
 
 
-### Day 49: February 21 2020
+### Day 49: February 21, 2020
 
 **Today's Progress**: Updated one more project, and boy, this one is got me tired :p
 
@@ -423,7 +423,7 @@
 **Link to work:** [Desafio Front-end - Vagas pt-br](https://github.com/ElandVarse/desafio-front-end)
 
 
-### Day 50: February 22 2020
+### Day 50: February 22, 2020
 
 **Today's Progress**: I'm still awace since yesterday but already past midnight and it's another day, well, 4 hours in a row coding a formulary, please call the amberlamps cuz i'll sleep
 
@@ -433,7 +433,7 @@ I'm the Scatman
 **Link to work:** [Desafio Front-end - Vagas pt-br](https://github.com/ElandVarse/desafio-front-end)
 
 
-### Day 51: February 23 2020
+### Day 51: February 23, 2020
 
 **Today's Progress**: Working on the visuals of the ChWays project, i'll update it when i have something nice
 
@@ -442,48 +442,56 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
-### Day 52: February 24 2020
+### Day 52: February 24, 2020
 
 **Today's Progress**: Still working on updating old projects with the new knowledge i've acquired
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
-### Day 53: February 25 2020
+### Day 53: February 25, 2020
 
 **Today's Progress**: Studying some css tricks and optimizing my codes  
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
-### Day 54: February 26 2020
+### Day 54: February 26, 2020
 
 **Today's Progress**: Coding in vanilla html/css/js today, i've realized that when your code gets bigger, it becames so confuse as learning japanese being a Tom Cruise in The Last Samurai movie, so i'm gonna bring this project to react as soon as possible.
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
-### Day 55: February 27 2020
+### Day 55: February 27, 2020
 
 **Today's Progress**: Improving my react skills and learning about responsive tipography
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
-### Day 56: February 28 2020
+### Day 56: February 28, 2020
 
 **Today's Progress**: Learning how to call functions in react and studying classes again
 
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
-### Day 57: February 29 2020
+### Day 57: February 29, 2020
 
 **Today's Progress**: Did nothing new, only worked with react and the freakin elifecycle bug that happen's every single day, boy, how i hate that
 
 **Thoughts**: I'm tired of programming every day :'(
 
-**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays
+
+
+### Day 58: March 1, 2020
+
+**Today's Progress**: Started a new project, it's a registration system for my college but they don't know that. Working with react
+
+
+
 
 
 
