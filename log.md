@@ -483,12 +483,21 @@ I'm the Scatman
 
 **Thoughts**: I'm tired of programming every day :'(
 
-**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
 ### Day 58: March 1, 2020
 
 **Today's Progress**: Started a new project, it's a registration system for my college but they don't know that. Working with react
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/portalAluno)
+
+
+### Day 59: March 2, 2020
+
+**Today's Progress**: Learning more about grid in css.
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/portalAluno)
 
 
 
