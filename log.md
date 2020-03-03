@@ -490,14 +490,24 @@ I'm the Scatman
 
 **Today's Progress**: Started a new project, it's a registration system for my college but they don't know that. Working with react
 
-**Link to work:** [ChWays](https://github.com/ElandVarse/portalAluno)
+**Link to work:** [Portal Aluno](https://github.com/ElandVarse/portalAluno)
 
 
 ### Day 59: March 2, 2020
 
 **Today's Progress**: Learning more about grid in css.
 
-**Link to work:** [ChWays](https://github.com/ElandVarse/portalAluno)
+**Link to work:** [Portal Aluno](https://github.com/ElandVarse/portalAluno)
+
+
+### Day 60: March 3, 2020
+
+**Today's Progress**: Finished the design of a project with react, now i need to figure out how to integrate the back-end in a beautiful way
+
+**Link to work:** [Portal Aluno](https://github.com/ElandVarse/portalAluno)
+
+
+
 
 
 
