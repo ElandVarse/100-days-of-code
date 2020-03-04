@@ -507,6 +507,15 @@ I'm the Scatman
 **Link to work:** [Portal Aluno](https://github.com/ElandVarse/portalAluno)
 
 
+### Day 61: March 3, 2020
+
+**Today's Progress**: Had to stop my studies in node js cause my deepin seems doesn't like very much of docker and mongodb, so i installed ubuntu to see if this time works, let's pray for. Node JS seems very confuse right now for me, but i can handle that, i bilieve, let's pray for this too
+
+**Link to work:** [Portal Aluno](https://github.com/ElandVarse/portalAluno)
+
+
+
+
 
 
 
