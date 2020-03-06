@@ -521,6 +521,13 @@ I'm the Scatman
 **Link to work:** [Portal Aluno](https://github.com/ElandVarse/portalAluno)
 
 
+### Day 63: March 6, 2020
+
+**Today's Progress**: It's been 3 uninterrupted days trying to fix the bugs in environment of my backend, you know, nodejs, express, mongodb, docker etc. Now i'm facing de error in eaddrinuse nodemon, but i managed to connect the data base, which is good i think
+
+**Thoughts**: oh how i love losing my time fixing bugs that prevents me from coding properly 😍😍😍
+
+
 
 
 
