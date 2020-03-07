@@ -528,7 +528,7 @@ I'm the Scatman
 **Thoughts**: oh how i love losing my time fixing bugs that prevents me from coding properly 😍😍😍
 
 
-### Day 63: March 6, 2020
+### Day 64: March 7, 2020
 
 **Today's Progress**: The bugs ceased and let me finish the course of nodeJs and i'm very glad with that 😊😊, i liked a lot of node even though I don't understand a thing, today i used async, CRUD, CORS, many things, i have to review all of this later cause it didn't fixed in my mind yet. E pra quem quem é brazilian, eu li um artigo muito foda explicando callback, promises e async hoje que esclareceu e ajudou muito mas muito mesmo fica a recomendação, o autor usa umas analogias muito boas e escreve muito be. 
 
