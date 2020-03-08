@@ -535,6 +535,15 @@ I'm the Scatman
 **Thoughts**: Now i'm gonna enjoy my weekend
 
 
+### Day 65: March 8, 2020
+
+**Today's Progress**: I took an old project(which have a very ugly backend) to apply concepts of functional programming and try to reduce the amount of lines without losing his beauty
+ 
+**Thoughts**: Is sunday so i'll work serious tomorrow
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
 
 
 
