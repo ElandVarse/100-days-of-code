@@ -544,6 +544,11 @@ I'm the Scatman
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 66: March 9, 2020
+
+**Today's Progress**: 5 hours coding today, solving problems in css and in javascript, boy, i'm tired... 
+ 
+**Thoughts**: can't say anymore
 
 
 
