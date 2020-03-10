@@ -551,6 +551,14 @@ I'm the Scatman
 **Thoughts**: can't say anymore
 
 
+### Day 67: March 10, 2020
+
+**Today's Progress**: I managed to reduce a lot the lines of the code, make it more beautiful and more easy to be read. I learned a lot as well, descovering things i've never knew that was possible without searching on google :)))))
+ 
+**Thoughts**: I'm very happy with that :)
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
 
 
 
