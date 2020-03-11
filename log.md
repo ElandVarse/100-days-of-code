@@ -560,6 +560,13 @@ I'm the Scatman
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 68: March 11, 2020
+
+**Today's Progress**: Today i only trained my design skills in css today. 
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
 
 
 
