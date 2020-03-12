@@ -553,7 +553,7 @@ I'm the Scatman
 
 ### Day 67: March 10, 2020
 
-**Today's Progress**: I managed to reduce a lot the lines of the code, make it more beautiful and more easy to be read. I learned a lot as well, descovering things i've never knew that was possible without searching on google :)))))
+**Today's Progress**: I managed to reduce a lot the lines of the code, make it more beautiful and more easy to be read. I learned a lot as well, discovering things i've never knew that was possible without searching on google :)))))
  
 **Thoughts**: I'm very happy with that :)
 
@@ -565,6 +565,13 @@ I'm the Scatman
 **Today's Progress**: Today i only trained my design skills in css today. 
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
+### Day 69: March 12, 2020
+
+**Today's Progress**: I'm Trying to improve my eye for design, but boy, it's being hard af. To feel inspired, i'm looking a lot of works on web, and i can't see clearly what i can do with  my projects, but i still working on them, maybe something comes up from nothing you know. Working with react in the moment.
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
 
