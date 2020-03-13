@@ -574,6 +574,10 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 70: March 13, 2020
+
+**Today's Progress**: Trying to find out how to insert a lot of backgrounds images in a application and change them by clicking on a button.
+
 
 
 
