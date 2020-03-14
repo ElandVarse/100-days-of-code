@@ -579,6 +579,13 @@ I'm the Scatman
 **Today's Progress**: Trying to find out how to insert a lot of backgrounds images in a application and change them by clicking on a button.
 
 
+### Day 71: March 14, 2020
+
+**Today's Progress**: Guys, i'm about to give you top tip of all time: Never forget to commit big changes, i lost all my progress from yesterday and now have to do all again sad, but it got better this time so i'm happy?
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
+
 
 
 
