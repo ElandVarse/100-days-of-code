@@ -586,6 +586,11 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 72: March 15, 2020
+
+**Today's Progress**: Today i realized that i don't know much about react indeed and animation in CSS, i'm having problems in apply logic with react, i don't how i'm gonna do this cause in node i learned only how to connect the database in the project. Time for action!
+
+
 
 
 
