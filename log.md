@@ -591,6 +591,11 @@ I'm the Scatman
 **Today's Progress**: Today i realized that i don't know much about react indeed and animation in CSS, i'm having problems in apply logic with react, i don't how i'm gonna do this cause in node i learned only how to connect the database in the project. Time for action!
 
 
+### Day 73: March 16, 2020
+
+**Today's Progress**: I reserved my day to dive into the concepts of componentization in react and also how jsx works
+
+
 
 
 
