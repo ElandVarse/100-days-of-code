@@ -595,6 +595,10 @@ I'm the Scatman
 
 **Today's Progress**: I reserved my day to dive into the concepts of componentization in react and also how jsx works
 
+### Day 74: March 17, 2020
+
+**Today's Progress**: Learned a lot about Vue JS today. 
+
 
 
 
