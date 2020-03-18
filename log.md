@@ -595,9 +595,19 @@ I'm the Scatman
 
 **Today's Progress**: I reserved my day to dive into the concepts of componentization in react and also how jsx works
 
+
 ### Day 74: March 17, 2020
 
 **Today's Progress**: Learned a lot about Vue JS today. 
+
+**Thoughts**: I would like to be a musician some day
+
+
+### Day 75: March 18, 2020
+
+**Today's Progress**: Today, i was learning how php works, i feel that the worst part of programming is to set up the ambient for the language. One thing that i'm learning from this challenge is that i cannot worry about all technologies that i see. So i'm gonna focus on react and css for now, my head is full.
+
+**Thoughts**: I'm not committing my projects in the github theses days cause i don't want to mess up everything here, also cause i'm learning git too and i think it's very easy you mess up something.
 
 
 
