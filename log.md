@@ -610,6 +610,12 @@ I'm the Scatman
 **Thoughts**: I'm not committing my projects in the github theses days cause i don't want to mess up everything here, also cause i'm learning git too and i think it's very easy you mess up something.
 
 
+### Day 76: March 19, 2020
+
+**Today's Progress**: Today, i solved a lot of bugs and vulnerabilities in my codes, fixed the react and updated the design. 
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+
 
 
 
