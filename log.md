@@ -617,6 +617,13 @@ I'm the Scatman
 **Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
 
 
+### Day 77: March 20, 2020
+
+**Today's Progress**: I think i solved the bugs with react and npm, we'll see through the next days, i also updated more of the visuals of my projects, but i'm still don't have the eye to create the most beautiful application that ever existed
+
+**Link to work:** [ChWays](https://github.com/ElandVarse/ChWays)
+**Link to work:** [PortalAluno](https://github.com/ElandVarse/portalAluno)
+
 
 
 
