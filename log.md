@@ -625,6 +625,12 @@ I'm the Scatman
 **Link to work:** [PortalAluno](https://github.com/ElandVarse/portalAluno)
 
 
+### Day 78: March 21, 2020
+
+**Today's Progress**: Learning about css animations, keyframes and all, very crazy. Today, i made a pulsing heart, very simple but it works 
+
+
+
 
 
 
