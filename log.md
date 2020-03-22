@@ -628,6 +628,19 @@ I'm the Scatman
 ### Day 78: March 21, 2020
 
 **Today's Progress**: Learning about css animations, keyframes and all, very crazy. Today, i made a pulsing heart, very simple but it works 
+**Link to work:** [css-animations](https://github.com/ElandVarse/css-animations)
+
+
+
+### Day 79: March 22, 2020
+
+**Today's Progress**: Had to delete the css-animations repository, bug with git. I created a new one and tested new animations, it's pretty interesting, i like it. 
+
+**Link to work:** [css-animations](https://github.com/ElandVarse/css-animations)
+
+
+
+
 
 
 
