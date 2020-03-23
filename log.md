@@ -639,6 +639,12 @@ I'm the Scatman
 **Link to work:** [css-animations](https://github.com/ElandVarse/css-animations)
 
 
+### Day 80: March 23, 2020
+
+**Today's Progress**: Started a new course, we're gonna make an application that utilizes nodeJS and React, this is the first time i'm gonna see mobile. Today, we've only construct the base for the app. 
+
+
+
 
 
 
