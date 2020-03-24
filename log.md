@@ -641,7 +641,13 @@ I'm the Scatman
 
 ### Day 80: March 23, 2020
 
-**Today's Progress**: Started a new course, we're gonna make an application that utilizes nodeJS and React, this is the first time i'm gonna see mobile. Today, we've only construct the base for the app. 
+**Today's Progress**: Started a new course, we're gonna make an application that utilizes nodeJS and React, this is the first time i'm gonna see mobile. Today, we've only construct the base for the app.
+
+
+### Day 81: March 23, 2020
+
+**Today's Progress**: Today i learned about routes and SQLite while tried to fix bugs in my codes.
+
 
 
 
