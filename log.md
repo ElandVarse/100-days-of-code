@@ -644,9 +644,14 @@ I'm the Scatman
 **Today's Progress**: Started a new course, we're gonna make an application that utilizes nodeJS and React, this is the first time i'm gonna see mobile. Today, we've only construct the base for the app.
 
 
-### Day 81: March 23, 2020
+### Day 81: March 24, 2020
 
 **Today's Progress**: Today i learned about routes and SQLite while tried to fix bugs in my codes.
+
+
+### Day 82: March 25, 2020
+
+**Today's Progress**: I got a lot of bugs today working in my back-end, i was using insomnia, node and SQLite. I'll have to say for you guys, sometimes when i get myself in front to a hideous bug in my codes, i start to think something like: 'Oh man, i have to give up, there's no solution for this'. When this happens, i stop what i'm doing for a while and come back later. When i'm back, i usually manage to fix what have is giving me trouble. What i'm saying is, if you're hopeless in some project, stop for a while, start to work in another one or even relax a little bit. Many of our problems are caused by stress and we just need to stop of think about it a bit. This works even if you have time to deliver a work, if you relax for maybe i don't know 10 minutes, it's already good enough to rest your brain and save you some time. Living and learning.
 
 
 
