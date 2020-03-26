@@ -651,7 +651,16 @@ I'm the Scatman
 
 ### Day 82: March 25, 2020
 
-**Today's Progress**: I got a lot of bugs today working in my back-end, i was using insomnia, node and SQLite. I'll have to say for you guys, sometimes when i get myself in front to a hideous bug in my codes, i start to think something like: 'Oh man, i have to give up, there's no solution for this'. When this happens, i stop what i'm doing for a while and come back later. When i'm back, i usually manage to fix what have is giving me trouble. What i'm saying is, if you're hopeless in some project, stop for a while, start to work in another one or even relax a little bit. Many of our problems are caused by stress and we just need to stop of think about it a bit. This works even if you have time to deliver a work, if you relax for maybe i don't know 10 minutes, it's already good enough to rest your brain and save you some time. Living and learning.
+**Today's Progress**: I got a lot of bugs today working in my back-end, i was using insomnia, node and SQLite. I'll have to say for you guys, sometimes when i get myself in front to a hideous bug in my codes, i start to think something like: 'Oh man, i have to give up, there's no solution for this'. When this happens, i stop what i'm doing for a while and come back later. When i'm back, i usually manage to fix what is giving me trouble. What i'm saying is, if you're hopeless in some project, stop for a while, start to work in another one or even relax a little bit. Many of our problems are caused by stress and we just need to stop of think about it a bit. This works even if you to deliver a work in a time, if you relax for maybe i don't know 10 minutes, it's already good enough to rest your brain and save you some time. Living and learning.
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
+### Day 83: March 26, 2020
+
+**Today's Progress**: The only good part of dealing with a bug, it is that you are forced to understand what your code do, note that i didn't say 'understand what you are doing', 85% of the bugs i fixed, i had no idea what i did. God bless the stack overflow. Today i learned more about git and is still confuse for me, it's super easy to mess everything up, but i'm managing.
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
 
