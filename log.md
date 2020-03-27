@@ -663,6 +663,14 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 84: March 27, 2020
+
+**Today's Progress**: Started the visual part of the app.
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
+
 
 
 
