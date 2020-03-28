@@ -670,6 +670,15 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 85: March 28, 2020
+
+**Today's Progress**: Spent to much time programming today, i learned so many good thing in react that i can't even enumarate 'em. But, if i could say something about it, it allows me create a full website with back-end and all. I stopped cause i met a very terrible creature called Bug Inmyinsomnia, and i'm relativy angry.
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
+
+
 
 
 
