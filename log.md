@@ -677,6 +677,14 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 86: March 29, 2020
+
+**Today's Progress**: I can't understand what is causing the bug that is hauting me, so i'm redoing my backend from 0 to find this firetrucker.
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
+
 
 
 
