@@ -684,6 +684,13 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 87: March 30, 2020
+
+**Today's Progress**: I managed to remade the backend of the application fixing the bug, now works properly. Now we have to finish the frontend
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
 
 
 
