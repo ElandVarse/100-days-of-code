@@ -691,6 +691,13 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 88: March 31, 2020
+
+**Today's Progress**: All right, the frontend was sucessfully implemented, god bless 
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
 
 
 
