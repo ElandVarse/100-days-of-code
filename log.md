@@ -698,6 +698,13 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 89: April 1, 2020
+
+**Today's Progress**: Giving the first steps into mobile, using react native and i'm kind of liking
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
 
 
 
