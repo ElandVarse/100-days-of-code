@@ -712,6 +712,13 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 91: April 2, 2020
+
+**Today's Progress**:It happened a bug in my backend (AGAIN) that left me very VERY angry, probably i lost the mobile version of the. Well i don't have mind for that right now i'll see if i can recover everything later, if  i don't, i'll leave this project behind and start a new one cuz i'm sick of it
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
+
 
 
 
