@@ -719,6 +719,12 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 92: April 3, 2020
+
+**Today's Progress**: I found where the bug was, in the insomnia. So i managed to proceed the application without it and it worked very well and i'm kind happy with that. With that said, i finished the app. Now only left see some advanced funcionalities and the course is ended god bless us all
+
+**Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
+
 
 
 
