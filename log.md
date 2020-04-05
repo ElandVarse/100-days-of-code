@@ -726,6 +726,16 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
+### Day 93: April 4, 2020
+
+**Today's Progress**: I have a project that has a design so ugly that makes me cry when i'm trying to sleep everyday, so i took it and i'm giving my best made it beautiful but boi it's being hard as dar entrada no beneficio do inss com documento falso 
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
+
+
+
 
 
 
