@@ -733,6 +733,14 @@ I'm the Scatman
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 94: April 5, 2020
+
+**Today's Progress**: Working on the design of that project i've said 
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
+
 
 
 
