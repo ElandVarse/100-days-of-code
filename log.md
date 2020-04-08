@@ -747,6 +747,14 @@ I'm the Scatman
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 96: April 7, 2020
+
+**Today's Progress**: Working on the mobile version
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
+
 
 
 
