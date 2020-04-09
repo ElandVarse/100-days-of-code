@@ -755,6 +755,14 @@ I'm the Scatman
 
 
 
+### Day 97: April 8, 2020
+
+**Today's Progress**: Lost a few hours trying to solve a thing that could be implemented with only a few lines of code, i don't care for that because i learned something today, sometimes there are properties that are complete functions, you just have to found 'em
+
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
+
+
+
 
 
 
