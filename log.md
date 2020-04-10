@@ -712,79 +712,59 @@ I'm the Scatman
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
-### Day 91: April 2, 2020
+### Day 91: April 3, 2020
 
 **Today's Progress**:It happened a bug in my backend (AGAIN) that left me very VERY angry, probably i lost the mobile version of the. Well i don't have mind for that right now i'll see if i can recover everything later, if  i don't, i'll leave this project behind and start a new one cuz i'm sick of it
 
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
-### Day 92: April 3, 2020
+### Day 92: April 4, 2020
 
 **Today's Progress**: I found where the bug was, in the insomnia. So i managed to proceed the application without it and it worked very well and i'm kind happy with that. With that said, i finished the app. Now only left see some advanced funcionalities and the course is ended god bless us all
 
 **Link to work:** [be-the-hero](https://github.com/ElandVarse/be-the-hero)
 
 
-### Day 93: April 4, 2020
+### Day 93: April 5, 2020
 
 **Today's Progress**: I have a project that has a design so ugly that makes me cry when i'm trying to sleep everyday, so i took it and i'm giving my best made it beautiful but boi it's being hard as dar entrada no beneficio do inss com documento falso 
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
-### Day 94: April 5, 2020
+### Day 94: April 6, 2020
 
 **Today's Progress**: Working on the design of that project i've said 
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
-### Day 95: April 6, 2020
+### Day 95: April 7, 2020
 
 **Today's Progress**: Improving my design skills and learning some css
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
-### Day 96: April 7, 2020
+### Day 96: April 8, 2020
 
 **Today's Progress**: Working on the mobile version
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
-
-### Day 97: April 8, 2020
+### Day 97: April 9, 2020
 
 **Today's Progress**: Lost a few hours trying to solve a thing that could be implemented with only a few lines of code, i don't care for that because i learned something today, sometimes there are properties that are complete functions, you just have to found 'em
 
 **Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
+### Day 98: April 10, 2020
 
+**Today's Progress**: Spent 4 hours today finishing the jokenpo project and i bilieve it's ended, god bless, only in pt-br. Tomorrow i probably will dive into another project with heart, soul and coca cola
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Link to work:** [Jokenpo](https://github.com/ElandVarse/jokenpo)
 
 
