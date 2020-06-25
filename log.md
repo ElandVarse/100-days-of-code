@@ -779,7 +779,7 @@ I'm the Scatman
 
 **Today's Progress**: Well, finally the last day has arrived, i still have a lot lot of projects to finish and probably won't stop of coding everyday, so this is my last form in the challenge, it's a website for students in my college, cause the original sucks
 
-**Thoughts**: all right, i'm probably gonna miss writing everyday my codings... i said probably not will lol lmao. With all certain i'll do it again soon, now i'll just SEARCH FOR A JOB, cause you know, food and stuff. Anyway god bless us all and with lucky the corona virus will kill everyone so the planet could live well 😃  
+**Thoughts**: all right, i'm probably gonna miss writing everyday my codings... i said probably not will lol lmao. With all certain i'll do it again soon, now i'll just SEARCH FOR A JOB, cause you know, food and stuff. Anyway, god bless us all and let's hope that corona virus don't kill everyone.
 
 **Link to work:** [PortalAluno](https://github.com/ElandVarse/portalAluno)
 
